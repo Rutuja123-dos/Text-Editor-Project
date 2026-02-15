@@ -27,9 +27,8 @@ A lightweight, functional text editor built using Python's Tkinter library. This
 2. Copy the script into a file named text_editor.py.
 
 3. Open your terminal and run:
+   python text_editor.py
 
-Bash
-python text_editor.py
 ## 🧠 Key Learnings
 * GUI Architecture: Learned how to build cascading menus and handle window configurations.
 
