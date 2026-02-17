@@ -8,7 +8,7 @@ A lightweight, functional text editor built using Python's Tkinter library. This
 
 * Open File: Browse and load existing .txt files from your system.
 
-* Save File: Save your work with a custom filename and receive a success confirmation.
+* Save File: Save your work with a custom filename and receive a success confirmation. 
 
 * Modern UI: Features a 800x600 window, Helvetica typography, and word-wrapping for better readability.
 
