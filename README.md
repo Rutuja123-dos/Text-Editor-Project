@@ -1,4 +1,4 @@
-## Text-Editor-Project
+# Text-Editor-Project
 
 ## Simple Python Text Editor 📝
 A lightweight, functional text editor built using Python's Tkinter library. This project demonstrates Graphical User Interface (GUI) development and File I/O operations in Python.
